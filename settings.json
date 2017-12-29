@@ -1,0 +1,28 @@
+{
+    "editor.accessibilitySupport": "off",
+    "editor.autoIndent": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "line",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.minimap.enabled": false,
+
+    "explorer.openEditors.visible": 0,
+    "explorer.sortOrder": "type",
+
+    "files.eol": "\r\n",
+    "files.trimTrailingWhitespace": true,
+
+    "npm.packageManager": "yarn",
+
+    "terminal.integrated.enableBold": false,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontSize": 13,
+
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Dracula",
+    "workbench.editor.labelFormat": "medium",
+    "workbench.editor.revealIfOpen": true,
+    "workbench.sideBar.location": "right"
+}
