@@ -19,6 +19,7 @@
     "terminal.integrated.enableBold": false,
     "terminal.integrated.fontFamily": "Fira Code",
     "terminal.integrated.fontSize": 13,
+    "terminal.integrated.lineHeight": 1.25,
 
     "workbench.activityBar.visible": false,
     "workbench.colorTheme": "Dracula",
