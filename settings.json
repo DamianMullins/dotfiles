@@ -29,6 +29,5 @@
     "workbench.colorTheme": "Dracula",
     "workbench.editor.labelFormat": "medium",
     "workbench.editor.revealIfOpen": true,
-    "workbench.sideBar.location": "right",
-    "window.zoomLevel": 0
+    "workbench.sideBar.location": "right"
 }
