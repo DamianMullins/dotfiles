@@ -15,19 +15,34 @@
     "files.eol": "\r\n",
     "files.trimTrailingWhitespace": true,
 
+    "git.autofetch": true,
+
     "javascript.format.insertSpaceAfterConstructor": true,
     "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
 
     "npm.packageManager": "yarn",
+    "npm.enableScriptExplorer": true,
 
-    "terminal.integrated.enableBold": false,
     "terminal.integrated.fontFamily": "Fira Code",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.lineHeight": 1.25,
+    "terminal.integrated.shell.osx": "/bin/zsh",
 
     "workbench.activityBar.visible": false,
     "workbench.colorTheme": "Dracula",
     "workbench.editor.labelFormat": "medium",
     "workbench.editor.revealIfOpen": true,
-    "workbench.sideBar.location": "right"
+    "workbench.sideBar.location": "right",
+    "sync.gist": "91698db33809b19b7b3916e5d8a21dce",
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastUpload": "2018-07-25T08:03:57.712Z",
+    "sync.lastDownload": "",
+    "sync.forceDownload": false
 }
