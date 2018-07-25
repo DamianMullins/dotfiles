@@ -135,7 +135,13 @@ module.exports = {
   //   `hyperpower`
   //   `@company/project`
   //   `project#1.0.1`
-  plugins: ["hyper-dracula", "hyper-ligatures", "hypercwd", "hyperminimal"],
+  plugins: [
+    "hyper-dracula",
+    "hyper-ligatures",
+    "hypercwd",
+    "hyperminimal",
+    "hyperlinks"
+  ],
 
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
